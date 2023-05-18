@@ -1,3 +1,5 @@
+# This project allows you to copy multiple items to the clipboard using Terminal (Linux/MacOS) or the Command Prompt (Windows) #
+
 import sys
 import clipboard
 import json
